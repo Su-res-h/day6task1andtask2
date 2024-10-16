@@ -1,0 +1,48 @@
+.navbar {
+    /* display: inline-block; */
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: black;
+    text-align: center;
+}
+
+.navbar h1 {
+    display: inline-block;
+    color: white;
+    /* text-align: center; */
+    padding: 10px;
+}
+
+.navbar h1:hover {
+    color: pink;
+}
+
+.scrollbar {
+    margin-bottom: 5000px;
+}
+
+.sidebar {
+    position: fixed;
+    /* top: 0; */
+
+    /* left: 0; */
+    /* right: 0;
+    bottom: 0; */
+    top: 150px;
+    left: 1400px;
+    width: 100px;
+    padding: 20px;
+
+
+   
+
+}
+img{
+    width: 100%;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
